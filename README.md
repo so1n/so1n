@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jackyczj&show_icons=true&theme=dracula" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=so1n&show_icons=true&theme=dracula" />
 
 ### Hi there 👋
 - 👩‍💻 I'm currently working sip and back-end development related
