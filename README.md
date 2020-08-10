@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👩‍💻 I'm currently working sip and backend engineer related
-- 🌱 I’m currently learning some algorithm, English and more programming languages
+- 🌱 I’m currently learning algorithm, english, cloud native and more programming languages
 
 Programming is very interesting and Python is the most beautiful language in personal programming projects.
 
