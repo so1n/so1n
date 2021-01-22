@@ -2,6 +2,8 @@
 - 👩‍💻 I'm currently working sip and backend engineer related
 - 🌱 I’m currently learning algorithm, english, cloud native and more programming languages
 
+(就是一个战五渣的菜鸡)
+
 Programming is very interesting and Python is the most beautiful language in personal programming projects.
 
 
