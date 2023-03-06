@@ -2,7 +2,6 @@
 - 👩‍💻 I'm currently working sip and backend engineer related
 - 🌱 I’m currently learning algorithm, english, cloud native and more programming languages
 
-(就是一个战五渣的菜鸡)
 
 Programming is very interesting and Python is the most beautiful language in personal programming projects.
 
@@ -19,5 +18,6 @@ Programming is very interesting and Python is the most beautiful language in per
 <details>
   <summary>Some other project</summary>
   <br>
-a ha
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=so1n&repo=pait)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=so1n&repo=rap)](https://github.com/anuraghazra/github-readme-stats)
 </details>
